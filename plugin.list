@@ -5,3 +5,12 @@ http://github.com/tpope/vim-rails.git
 http://github.com/tpope/vim-endwise.git
 http://github.com/tpope/vim-surround.git
 http://github.com/tpope/vim-cucumber.git
+http://github.com/msanders/snipmate.vim.git
+http://github.com/vim-scripts/OmniCppComplete.git
+http://github.com/scrooloose/nerdcommenter.git
+http://github.com/Townk/vim-autoclose.git
+http://github.com/wincent/Command-T.git
+http://github.com/vim-scripts/taglist.vim.git
+http://github.com/ervandew/supertab.git
+http://github.com/fholgado/minibufexpl.vim.git
+http://github.com/zerdliu/winmanager.git
