@@ -3,6 +3,7 @@
 
 set nocompatible                  " Must come first because it changes other options.
 
+filetype off
 silent! call pathogen#runtime_append_all_bundles()
 
 syntax enable                     " Turn on syntax highlighting.
@@ -96,6 +97,9 @@ let g:miniBufExplMoreThanOne=0
 let g:NERDTree_title="[NERDTree]"
 "let g:winManagerWindowLayout="NERDTree|TagList"
 let g:winManagerWindowLayout='NERDTree|TagList,BufExplorer'
+
+let g:vimclojure#HighlightBuiltins = 1
+let g:vimclojure#ParenRainbow = 1
 
 function! NERDTree_Start()
     exec 'NERDTree'
